@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デイバイデイズ",
+  "base_artist": "syudou",
+  "createdAt": "2026-03-12T18:20:23.445568Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デイバイデイズ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_デイバイデイズ_syudou.txt"
+    }
+  ]
+}
